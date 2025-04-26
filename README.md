@@ -9,6 +9,12 @@ A minimalist and real-time crypto price widget for [Übersicht](https://tracesof
 - Fully customizable: colors, layout, currencies displayed
 - Works out-of-the-box with free APIs like [CoinGecko](https://www.coingecko.com/) or [CoinMarketCap](https://coinmarketcap.com/)
 
+## 🖼️ Preview
+
+![Widget Demo](./assets/demo.gif)
+
+_Minimal setup — clean information directly on your desktop._
+
 ## 🚀 Getting Started
 
 1. Install [Übersicht](https://tracesof.net/uebersicht/).
@@ -16,4 +22,3 @@ A minimalist and real-time crypto price widget for [Übersicht](https://tracesof
    ```bash
    git clone https://github.com/your-username/ubersicht-widget-crypto.git
    ```
-
