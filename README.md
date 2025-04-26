@@ -11,7 +11,7 @@ A minimalist and real-time crypto price widget for [Übersicht](https://tracesof
 
 ## 🖼️ Preview
 
-![Widget Demo](./assets/demo.gif)
+![Widget Demo](./assets/widget.gif)
 
 _Minimal setup — clean information directly on your desktop._
 
