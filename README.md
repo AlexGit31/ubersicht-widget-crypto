@@ -22,3 +22,7 @@ _Minimal setup — clean information directly on your desktop._
    ```bash
    git clone https://github.com/your-username/ubersicht-widget-crypto.git
    ```
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
