@@ -11,7 +11,7 @@ A minimalist and real-time crypto price widget for [Übersicht](https://tracesof
 
 ## 🖼️ Preview
 
-![Widget Demo](./assets/demo.gif)
+![Widget Demo](./assets/widget.gif)
 
 _Minimal setup — clean information directly on your desktop._
 
@@ -20,7 +20,7 @@ _Minimal setup — clean information directly on your desktop._
 1. Install [Übersicht](https://tracesof.net/uebersicht/).
 2. Download or clone this repository into your Übersicht widgets folder:
    ```bash
-   git clone https://github.com/your-username/ubersicht-widget-crypto.git
+   git clone https://github.com/AlexGit31/ubersicht-widget-crypto.git
    ```
 
 ## 📄 License
